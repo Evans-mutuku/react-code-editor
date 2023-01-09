@@ -1,7 +1,7 @@
 # CodeRush - Compile and Execute code in 40+ languages
 
 ⚡️ A code editor that compiles and runs your code on the web.
-Blog: <a href="https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/" target="__blank">FreeCodeCamp - Build A Code IDE with React</a>
+Blog: <a href="https://www.melbite.com" target="__blank">Melbite - Build A Code IDE with React</a>
 
 <img src="https://github.com/manuarora700/react-code-editor/blob/main/demo.png" />
 
@@ -11,7 +11,7 @@ Blog: <a href="https://www.freecodecamp.org/news/how-to-build-react-based-code-e
 
 ## Installations and setup
 
-- git clone `https://github.com/manuarora700/react-code-editor.git`
+- git clone `https://github.com/Evans-mutuku/react-code-editor`
 - `npm install`
 - A sample `.env.sample` file is given, Register on <a href="https://rapidapi.com/judge0-official/api/judge0-ce/pricing" target="__blank">RapidAPI</a> ang get your API keys.
 - Create a `.env` file.
@@ -30,4 +30,4 @@ TODO:
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/manuarora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<!-- <a href="https://www.buymeacoffee.com/manuarora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> -->
